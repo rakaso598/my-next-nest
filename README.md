@@ -14,6 +14,6 @@ Perfect for developers looking to get started with full-stack development using 
 
 - Next.js: SSR(서버 측 렌더링) 및 SSG(정적 사이트 생성)와 같은 기능을 사용하여 빠르고 동적이고 SEO 친화적인 프런트엔드 애플리케이션을 만드는 데 활용됩니다.
 - NestJS: 유지 관리성과 성능에 중점을 두고 TypeScript와 최신 디자인 패턴을 활용하여 확장 가능한 백엔드 애플리케이션을 구축하기 위한 Node.js 프레임워크입니다.
-- 
+  
 이 프로젝트에는 API 통합, 프론트엔드 라우팅, 데이터 처리 등의 필수 기능이 포함되어 있어 프런트엔드와 백엔드 간의 원활한 통신이 가능합니다.
 최신 JavaScript 프레임워크를 사용하여 풀 스택 개발을 시작하려는 개발자에게 적합합니다.
