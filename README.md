@@ -5,7 +5,6 @@ The application demonstrates the power of combining these two frameworks, provid
 - NestJS: A powerful Node.js framework for building scalable backend applications with a focus on maintainability and performance, leveraging TypeScript and the latest design patterns.
 
 The project includes essential features such as API integration, frontend routing, and data handling, allowing for seamless communication between the frontend and backend.
-Perfect for developers looking to get started with full-stack development using modern JavaScript frameworks.
 
 ---
 
@@ -16,4 +15,3 @@ Perfect for developers looking to get started with full-stack development using 
 - NestJS: 유지 관리성과 성능에 중점을 두고 TypeScript와 최신 디자인 패턴을 활용하여 확장 가능한 백엔드 애플리케이션을 구축하기 위한 Node.js 프레임워크입니다.
   
 이 프로젝트에는 API 통합, 프론트엔드 라우팅, 데이터 처리 등의 필수 기능이 포함되어 있어 프론트엔드와 백엔드 간의 원활한 통신이 가능합니다.
-최신 JavaScript 프레임워크를 사용하여 풀 스택 개발을 시작하려는 개발자에게 적합합니다.
